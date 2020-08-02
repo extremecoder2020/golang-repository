@@ -5,6 +5,5 @@
 - Many of that code will be refactored that as i get better.
 
 
-🟢 Hey, if you have some oportunity for me, let me know!
-
-✉️ rnasviana.contato@gmail.com
+🟢 Hey, if you have some opportunity for me, let me know!
+✉️ rna viana.contato@gmail.com
