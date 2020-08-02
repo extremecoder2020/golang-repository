@@ -1,5 +1,10 @@
-# gostuffs
+# go repository
 
-My progress with Golang.
-- xxx.go files are basic files about my progress in fundamental of Golang.
-- filename.go are more advanced topics or projects.
+- This repository contains different levels of Go code, its my progress in the language.
+- So, each file have a name of the topic that i learned.
+- Many of that code will be refactored that as i get better.
+
+
+🟢 Hey, if you have some oportunity for me, let me know!
+
+✉️ rnasviana.contato@gmail.com
