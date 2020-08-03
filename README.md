@@ -12,6 +12,6 @@ Height="200" width="300"/></center>
 
 ---
 
-🟢 **Hey, if you have some opportunity for me, let me know!
+🟢 **Hey, if you have some opportunity for me, let me know!**
 
 ✉️ rnasviana.contato@gmail.com
