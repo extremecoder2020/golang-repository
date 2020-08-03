@@ -1,4 +1,4 @@
-# go repository
+# Golang repository
 
 - This repository contains different levels of Go code, its my progress in the language.
 - So, each file have a name of the topic that i learned.
