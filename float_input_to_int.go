@@ -6,7 +6,7 @@ import (
 
 func main() {
   var response float64
-	fmt.Scanln(&response)
+  fmt.Scanln(&response)
   forDecimal(response)
 }   
     
