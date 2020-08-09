@@ -7,6 +7,9 @@
 - Each file is named according to the topic that i learned.
 - Many of that code will be refactored that as i get better.
 
+### Observation:
+- Some scripts have **v2** tag in the end of name. It's improved version. I keept both to look the different approaches.
+
 
 
 ---
