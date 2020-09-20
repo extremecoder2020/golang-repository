@@ -15,4 +15,4 @@
 ---
 
 🟢 **Hey, if you have some opportunity for me, let me know!**<br>
-✉️ rnasviana.contato@gmail.com
+✉️ rnvdev.contato@gmail.com
